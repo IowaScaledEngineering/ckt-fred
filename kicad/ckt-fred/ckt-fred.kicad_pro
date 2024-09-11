@@ -34,8 +34,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 1.6,
-          "width": 3.5
+          "height": 17.8,
+          "width": 17.8
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.254
+          "min_clearance": 0.635
         }
       },
       "diff_pair_dimensions": [
@@ -356,7 +356,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "mss-crossover.kicad_pro",
+    "filename": "ckt-fred.kicad_pro",
     "version": 1
   },
   "net_settings": {
